@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16974" started-at="2019-10-04T17:58:17 IST" finished-at="2019-10-04T17:58:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16974" started-at="2019-10-04T17:58:17 IST" finished-at="2019-10-04T17:58:34 IST">
+      <class name="week3.Day2.CreateLead">
+        <test-method status="PASS" signature="setData()[pri:0, instance:week3.Day2.CreateLead@c0a365]" name="setData" is-config="true" duration-ms="24" started-at="2019-10-04T17:58:17 IST" finished-at="2019-10-04T17:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="startapp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week3.Day2.CreateLead@c0a365]" name="startapp" is-config="true" duration-ms="7075" started-at="2019-10-04T17:58:18 IST" finished-at="2019-10-04T17:58:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http:leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapp -->
+        <test-method status="PASS" signature="RunCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week3.Day2.CreateLead@c0a365]" name="RunCreateLead" duration-ms="6979" started-at="2019-10-04T17:58:25 IST" data-provider="getdata" finished-at="2019-10-04T17:58:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tvsnext]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vidhya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alagappan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[alvidya27@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Vid]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ala]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ms]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Title]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Testing Description]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Important Note]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[003]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[4578]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Engineering]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[ticker]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Mother]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[siccode]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[www.sendkeys.com]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Neela]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[148 Amherst Road]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[Sunderland]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[1657]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[255]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[4132708184]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunCreateLead -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:week3.Day2.CreateLead@c0a365]" name="teardown" is-config="true" duration-ms="2157" started-at="2019-10-04T17:58:32 IST" finished-at="2019-10-04T17:58:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- week3.Day2.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

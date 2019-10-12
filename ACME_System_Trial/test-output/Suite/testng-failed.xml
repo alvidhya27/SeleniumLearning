@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="url" value=" https://acme-test.uipath.com/account/login"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="tc001_ACME.TC001_FirstFlow">
+        <methods>
+          <include name="EndToEndFlow" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tc001_ACME.TC001_FirstFlow -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

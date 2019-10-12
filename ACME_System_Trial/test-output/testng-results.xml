@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13510" started-at="2019-10-12T15:34:01 IST" finished-at="2019-10-12T15:34:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13510" started-at="2019-10-12T15:34:01 IST" finished-at="2019-10-12T15:34:15 IST">
+      <class name="tc001_ACME.TC001_FirstFlow">
+        <test-method status="PASS" signature="EndToEndFlow(java.lang.String)[pri:0, instance:tc001_ACME.TC001_FirstFlow@1213b92]" name="EndToEndFlow" duration-ms="13454" started-at="2019-10-12T15:34:01 IST" finished-at="2019-10-12T15:34:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ https://acme-test.uipath.com/account/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndToEndFlow -->
+      </class> <!-- tc001_ACME.TC001_FirstFlow -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
